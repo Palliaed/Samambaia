@@ -158,8 +158,8 @@ button, a{
 
 /* carrossel ou slider */
 .carrossel{
-    height: 90vh;
-    width: 100%;
+    max-height: 800px;
+    max-width: 100%;
     overflow: hidden;
 }
 
